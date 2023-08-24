@@ -7,7 +7,7 @@ Test resmi:
 
 Video test:
 
-![Video Önizlemesi](https://github.com/emirselver/Socket-Detection-With-Yolov4-Tiny/blob/main/yolov4-tiny/test/output/(result)%20test_video.mp4)
+![Video Önizlemesi](https://github.com/emirselver/Socket-Detection-With-Yolov4-Tiny/blob/main/yolov4-tiny/test/output/result_-test_video.gif)
 
 Eğitim sonucu oluşan loss ve acc değerleri:
 
