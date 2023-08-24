@@ -1,5 +1,5 @@
 # Socket-Detection-With-Yolov4-Tiny
-Yolov4-Tiny ile priz, dolu priz ve boş priz tespiti.
+Yolov4-Tiny ile priz nesnesi üzerinden 3 farklı sınıf ile tespit işlemleri.
 
 ![GitHub Logo](https://github.com/emirselver/Socket-Detection-With-Yolov4-Tiny/blob/main/yolov4-tiny/test/output/(result)%20test_img.jpg)
 
