@@ -12,7 +12,7 @@ try:
     frame_height = int(cap.get(4))
     fps = int(cap.get(cv2.CAP_PROP_FPS))
 
-    out = cv2.VideoWriter('test/output/(result) test_video.mp4', cv2.VideoWriter_fourcc(*'XVID'), fps, (frame_width, frame_height))
+    out = cv2.VideoWriter('test/output/(result) test_video.mp4', cv2.VideoWriter_fourcc(*'mp4v'), fps, (frame_width, frame_height))
 
     print("Video işleniyor...")
 
